@@ -1,0 +1,8 @@
+Version Control System
+Track changes over time.
+
+1972	SCCS Source Code Control System	UNIX
+1982	Revision Control System	Open Source
+1986	Concurrent Versions System 	Open Source
+2000	SVN Apache Subversion	Open Source
+2005	GIT			Open Source

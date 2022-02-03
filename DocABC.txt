@@ -1,0 +1,41 @@
+GIT Versioning 
+Intoduction VCS(Version Control System)
+	History 
+	fundamental vcs
+	Centralized vs Distributed
+	
+Introduction
+	Git, Basic, Architecture
+	Workflow: 	How create repo. Add. Commit. 
+	HEAD
+	Git Command
+		(Check out)
+	Master
+	Branch 
+	Merge
+	Switch between branch
+	Merge
+	Resolving conflict between Master and Branch
+
+Introcution to GitHub
+	Basic GitHub
+	Distributed VCs, 
+	Cloning a remote repo
+	Fetch / push to remote repo
+	Collabration of Git and GitHub
+
+What is Version Control System?
+
+	File:-
+		Create / Edit / Update / Delete
+
+
+
+It's restored
+
+
+
+
+
+
+
